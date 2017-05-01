@@ -1,10 +1,10 @@
-import { XyzzyPage } from './app.po';
+import { HelloWorldPage } from './app.po';
 
 describe('xyzzy App', () => {
-  let page: XyzzyPage;
+  let page: HelloWorldPage;
 
   beforeEach(() => {
-    page = new XyzzyPage();
+    page = new HelloWorldPage();
   });
 
   it('should display message saying app works', () => {
