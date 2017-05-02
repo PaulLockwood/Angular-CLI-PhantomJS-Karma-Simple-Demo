@@ -1,6 +1,6 @@
 # Angular-CLI-PhantomJS-Karma-Simple-Demo
 
-Demo showing Karma running via PhantomJS in an Angular CLI Prject.
+Demo showing Karma running via PhantomJS in an Angular CLI Project.
 
 Simplest possible changes to a Angular CLI project.
 
